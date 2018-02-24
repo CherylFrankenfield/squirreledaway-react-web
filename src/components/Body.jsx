@@ -5,7 +5,6 @@ import NewEventForm from './NewEventForm';
 function Body() {
   return(
     <div>
-      Body works
       <EventList />
       <NewEventForm />
     </div>

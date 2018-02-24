@@ -6,7 +6,6 @@ import Footer from './Footer';
 function Home() {
   return(
     <div>
-      Home works
       <Header />
       <Body />
       <Footer />
