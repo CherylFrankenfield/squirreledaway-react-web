@@ -76,11 +76,12 @@ Link to Static Components Repo:
 https://github.com/CherylFrankenfield/squirreledaway-react-web.git
 
 Images:
-![UI Sketch](/planning-images/wireframe_1.jpg)
 
-![Components highlighted](/planning-images/wireframe_2.jpg)
+Components Highlighted:
+![img_5003](https://user-images.githubusercontent.com/32469854/36652557-462ee4f2-1a64-11e8-8d70-b3c232f9a1d1.JPG)
 
-![Component Tree](/planning-images/component-tree.jpg)
+Component Tree
+![img_5005](https://user-images.githubusercontent.com/32469854/36652560-465d6462-1a64-11e8-9f88-49da310769f1.JPG)
 
 ## Known Bugs
 
